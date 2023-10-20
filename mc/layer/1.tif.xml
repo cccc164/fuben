@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20230328</CreaDate><CreaTime>11005100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="f:\software\arcgis\desktop10.7\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20230328" Time="110051">RasterCalculator ""true.tif" * 0  + 1" D:\WGS\WGS_holiday\文献\实验\数据及代码\Phase-Ex\mc\图层\1.tif</Process></lineage></DataProperties></Esri></metadata>

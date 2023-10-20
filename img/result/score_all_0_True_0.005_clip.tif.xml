@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20230512</CreaDate><CreaTime>11270700</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="f:\software\arcgis\desktop10.7\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20230512" Time="112707">ExtractByMask score_all_0_True_0.005.tif mask.tif D:\WGS\DL\fuben\img\result\score_all_0_True_0.005_clip.tif</Process></lineage></DataProperties></Esri></metadata>

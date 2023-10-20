@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20230328</CreaDate><CreaTime>11180500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="f:\software\arcgis\desktop10.7\ArcToolbox\Toolboxes\Conversion Tools.tbx\PolygonToRaster" Date="20230328" Time="111805">PolygonToRaster 1 value D:\WGS\WGS_holiday\文献\实验\数据及代码\Phase-Ex\mc\研究区域图层文件\mask.tif CELL_CENTER NONE 1000</Process></lineage></DataProperties></Esri></metadata>
